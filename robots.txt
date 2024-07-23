@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ineservi.github.io/sitemap
+Sitemap: https://ineservi.github.io/app/sitemap
+Sitemap: https://ineservi.github.io/assets/sitemap
+Sitemap: https://ineservi.github.io/css/sitemap
+Sitemap: https://ineservi.github.io/includes/sitemap
+Sitemap: https://ineservi.github.io/item/sitemap
+Sitemap: https://ineservi.github.io/src/sitemap
